@@ -32,12 +32,12 @@ const API_SITES = {
         name: '如意资源',
     },
     bfzy: {
-        api: 'https://bfzyapi.com/api.php/provide/vod',
-        name: '暴风资源',
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '155资源',
     },
     tyyszy: {
-        api: 'https://tyyszy.com/api.php/provide/vod',
-        name: '天涯资源',
+        api: 'https://slapibf.com/api.php/provide/vod',
+        name: '森林资源',
     },
     // xiaomaomi: {
     //     api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
